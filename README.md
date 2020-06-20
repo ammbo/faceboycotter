@@ -10,6 +10,6 @@ To install this Chrome extension (assuming Google removes it):
 
 # Notes
 
-1. I'd love to use the FB ads library API, but that requires a FB app, which requires me to have an account and it requires the user to OAuth into the app, which requires them to have an account. Yuck.
-2. I'd love to link to the search page or somehow pre-fill the ads library. But that does not seem to work.
+1. I'd love to use the FB ads library API, but that requires a FB app, which requires me to have an account and it requires the user to OAuth into the app, which requires them to have an account. Yuck. https://www.facebook.com/ads/library/api
+2. I'd love to link to the Ads Library search page directly from the dialog button or somehow pre-fill the ads library. But that does not seem to work.
 3. The code is kludge. Feel free to improve it, it is very much a beta.
